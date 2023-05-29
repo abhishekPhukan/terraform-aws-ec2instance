@@ -7,3 +7,8 @@ variable "instance_name" {
   type = string
   description = "Name of the instance that would be created"
 }
+
+variable "random-variable" {
+  type = string
+  description = "Name of the random variable"
+}
