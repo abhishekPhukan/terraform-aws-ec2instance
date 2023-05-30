@@ -15,5 +15,5 @@ variable "random-variable" {
 
 variable "random-variable-2" {
   type = string
-  description = "Name of the random variable 2"
+  description = "Name of the random variable 3"
 }
